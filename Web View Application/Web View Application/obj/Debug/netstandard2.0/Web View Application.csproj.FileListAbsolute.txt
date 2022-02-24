@@ -1,0 +1,15 @@
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\bin\Debug\netstandard2.0\Web View Application.deps.json
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\bin\Debug\netstandard2.0\Web View Application.dll
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\bin\Debug\netstandard2.0\Web View Application.pdb
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\Web View Application.csproj.AssemblyReference.cache
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\Web View Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\Web View Application.AssemblyInfoInputs.cache
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\Web View Application.AssemblyInfo.cs
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\Web View Application.csproj.CoreCompileInputs.cache
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\Web View Application.dll
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\refint\Web View Application.dll
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\Web View Application.pdb
+C:\Users\ameer\source\repos\Web View Application\Web View Application\Web View Application\obj\Debug\netstandard2.0\ref\Web View Application.dll

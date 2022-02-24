@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Sep4UToV88wif/yo/mxXyRaGAoKMpY8DduMcWZZOQrJv2Ew2MlDJRBlWHpvt36F78QaqhFoGIH80mtvgkHzBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ameer\\source\\repos\\Web View Application\\Web View Application\\Web View Application\\Web View Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ameer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ameer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ameer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ameer\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ameer\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
